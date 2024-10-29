@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="load_data" type="id">load_data</item>
-    <item name="txtcname" type="id">txtcname</item>
-    <item name="txtcode" type="id">txtcode</item>
-</resources>
