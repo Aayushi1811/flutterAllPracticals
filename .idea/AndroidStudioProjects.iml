@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Exam/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Exam/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Exam/build" />
+      <excludeFolder url="file://$MODULE_DIR$/audiovideo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/audiovideo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/audiovideo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/glow_safe/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/glow_safe/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/glow_safe/build" />
+      <excludeFolder url="file://$MODULE_DIR$/glowsafe3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/glowsafe3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/glowsafe3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/glowsafe_inhouse/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/glowsafe_inhouse/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/glowsafe_inhouse/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_worldd/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_worldd/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_worldd/build" />
+      <excludeFolder url="file://$MODULE_DIR$/increment/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/increment/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/increment/build" />
+      <excludeFolder url="file://$MODULE_DIR$/inhouse/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/inhouse/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/inhouse/build" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_screens/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_screens/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_screens/build" />
+      <excludeFolder url="file://$MODULE_DIR$/practicalexam228/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/practicalexam228/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/practicalexam228/build" />
+      <excludeFolder url="file://$MODULE_DIR$/practice/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/practice/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/practice/build" />
+      <excludeFolder url="file://$MODULE_DIR$/text_input/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/text_input/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/text_input/build" />
+      <excludeFolder url="file://$MODULE_DIR$/trial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/trial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/trial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/build" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_API/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_API/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_API/build" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_audio/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_audio/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_audio/build" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_images/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_images/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_images/build" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_json/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_json/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_json/build" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_maps/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_maps/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_maps/build" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_sharedpreferences/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_sharedpreferences/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_sharedpreferences/build" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_textfile/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_textfile/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_textfile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_video/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_video/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_video/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

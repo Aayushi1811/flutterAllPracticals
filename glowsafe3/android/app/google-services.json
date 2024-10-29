@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533438220763",
+    "project_id": "inhouseglowsafe",
+    "storage_bucket": "inhouseglowsafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533438220763:android:5245d204cb68966333fffe",
+        "android_client_info": {
+          "package_name": "com.example.glowsafe3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNCftEtsoAhLEcQr9vR30ci3vJigo_kx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
